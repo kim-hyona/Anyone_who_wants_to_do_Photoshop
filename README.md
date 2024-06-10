@@ -55,5 +55,5 @@ Emboss
 
 dlib를 이용하여 얼굴을 인식한 후 리퀴파이(Liquify)함수를 사용하여 얼굴의 턱라인 보정 구현
 
+![스크린샷 2024-06-10 154403](https://github.com/kim-hyona/opencv/assets/148624727/77c2d053-227c-43e6-a462-d1eeeea6032a)
 
-![image](https://github.com/kim-hyona/opencv/assets/148624727/1bad5812-cb47-4ad1-bd56-2751db83b826)
