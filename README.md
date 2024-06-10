@@ -11,17 +11,29 @@ opencv를 활용한 포토샵 기능 구현 프로젝트
 
 
 
-#필터링
+다양한 필터링
 
 원본
+
+
 ![image](https://github.com/kim-hyona/opencv/assets/148624727/0a9dc734-f7ae-4b5d-887b-67537267eba7)
+
+
 Cartoon
+
+
 ![image](https://github.com/kim-hyona/opencv/assets/148624727/6237e740-01de-499b-ac39-e2d1e6fed911)
 
 
 Sketch
+
+
 ![image](https://github.com/kim-hyona/opencv/assets/148624727/cced3ba7-2f5b-4e95-a9a2-0f68a0ca9c72)
+
+
 Emboss
+
+
 ![image](https://github.com/kim-hyona/opencv/assets/148624727/e2c41e38-a0a5-4f3f-a3f3-0d46347c982e)
 
 
